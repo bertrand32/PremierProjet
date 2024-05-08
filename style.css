@@ -32,7 +32,6 @@ select {
     scroll-behavior: auto !important;
   }
 }
-
 :root {
   --Orange: hsla(35, 100%, 50%, 0.967);
   --Pale-orange: hsl(25, 100%, 94%);
@@ -42,7 +41,6 @@ select {
   --Light-grayish-blue: hsl(223, 64%, 98%);
   --White: hsl(0, 0%, 100%);
 }
-
 body {
   overflow-x: hidden;
   position: relative;
@@ -52,7 +50,6 @@ body {
 ul {
   list-style-type: none;
 }
-
 a {
   color: inherit;
   text-decoration: none;
@@ -80,7 +77,6 @@ a {
 .nav-logo{ 
   color:hsla(35, 93%, 48%, 0.73) ;
 }
-
 .cart-ctn {
   margin-left: auto;
   position: relative;
